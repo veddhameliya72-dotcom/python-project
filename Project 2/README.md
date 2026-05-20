@@ -341,8 +341,7 @@ MIT License — Copyright (c) 2026
 
 **Crafted with ❤️ and Python**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-181717?style=for-the-badge&logo=github)](https://github.com/your-username)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-profile)
+[![GitHub](https://img.shields.io/badge/GitHub-your--username-Ved Dhameliya?style=for-the-badge&logo=github)](https://github.com/your-Ved Dhameliya)
 
 *"Code is poetry — even a triangle of stars tells a story."*
 
