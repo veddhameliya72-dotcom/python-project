@@ -252,7 +252,7 @@ Thank you for using our program>> 😊
 
 ### 🖥️ Number Analyzer — Range 1 to 10
 
-![Number Analyzer Output](screenshots/screenshot1.png)
+![Number Analyzer Output](ASSETS/ss2.png)
 
 > Classifies each number as odd/even and displays all three sums at the end of the range.
 
@@ -260,7 +260,7 @@ Thank you for using our program>> 😊
 
 ### 🖥️ Pattern Generator — 5 Rows
 
-![Pattern Generator Output](screenshots/screenshot2.png)
+![Pattern Generator Output](ASSETS/ss1.png)
 
 > Generates a clean left-aligned right-triangle pattern with 5 rows.
 
@@ -268,7 +268,7 @@ Thank you for using our program>> 😊
 
 ### 🖥️ Invalid Range Handling & Exit
 
-![Error Handling and Exit](screenshots/screenshot3.png)
+![Error Handling and Exit](ASSETS/ss3.png)
 
 > Shows graceful input validation and the farewell exit message.
 
