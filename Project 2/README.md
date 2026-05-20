@@ -260,7 +260,7 @@ Thank you for using our program>> 😊
 
 ### 🖥️ Pattern Generator — 5 Rows
 
-![Pattern Generator Output](screenshots/screenshot2.png)
+Screenshot 2026-05-20 181950.png
 
 > Generates a clean left-aligned right-triangle pattern with 5 rows.
 
