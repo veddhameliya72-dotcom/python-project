@@ -341,7 +341,7 @@ MIT License — Copyright (c) 2026
 
 **Crafted with ❤️ and Python**
 
-[![GitHub](https://img.shields.io/badge/GitHub-your--username-Ved Dhameliya?style=for-the-badge&logo=github)](https://github.com/your-Ved Dhameliya)
+Ved Dhameliya>.
 
 *"Code is poetry — even a triangle of stars tells a story."*
 
