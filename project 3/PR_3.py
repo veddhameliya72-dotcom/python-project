@@ -81,3 +81,140 @@ while True:
             print("Exiting the program dhanyavad!")
             break    
 
+'''
+output:
+Welcome to the student data organizer:
+ 
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 1
+
+Students ID: 101
+Students Name: ved
+Students Age: 15
+Students Grade: A+
+Date of Birth (YYYY-MM-DD)2010-10-27
+Enter students subject: (separated by commas) Eng, Maths
+-------------------------------------
+***Student data added successfully***
+-------------------------------------
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 1
+
+Students ID: 102
+Students Name: xyz
+Students Age: 16
+Students Grade: A+
+Date of Birth (YYYY-MM-DD)2009-09-26
+Enter students subject: (separated by commas) SCi, Computer
+-------------------------------------
+***Student data added successfully***
+-------------------------------------
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 2
+
+{'id': 101, 'name': 'ved', 'age': 15, 'grade': 'A+', 'Date_of_Birth': '2010-10-27', 'subject': 'Eng, Maths'}
+
+{'id': 102, 'name': 'xyz', 'age': 16, 'grade': 'A+', 'Date_of_Birth': '2009-09-26', 'subject': 'SCi, Computer'}
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 3
+Enter students id: 101
+1. Update name.
+2. Update age.
+3. Update grade.
+4. Update date of birth.
+5. Update subject.
+Enter your choice: 1
+Enter new name: dev
+Student not found.
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 2
+
+{'id': 101, 'name': 'dev', 'age': 15, 'grade': 'A+', 'Date_of_Birth': '2010-10-27', 'subject': 'Eng, Maths'}
+
+{'id': 102, 'name': 'xyz', 'age': 16, 'grade': 'A+', 'Date_of_Birth': '2009-09-26', 'subject': 'SCi, Computer'}
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 5
+Subjescts offered:  {'SCi, Computer', 'Eng, Maths'}
+-------------------------------------
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 4
+Entrer the students ID to delete: 102
+Student deleted successfully.
+-------------------------------------
+***Student data deleted successfully***
+-------------------------------------
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 2
+
+{'id': 101, 'name': 'dev', 'age': 15, 'grade': 'A+', 'Date_of_Birth': '2010-10-27', 'subject': 'Eng, Maths'}
+
+1. To add student data.
+2. Display all students.
+3. Update student information
+4. Delete student.
+5. Display sujects offered.
+6. Exit.
+
+Enter your choice: 6
+Exiting the program dhanyavad!
+-------------------------------------
+-------------------------------------
+
+'''
+
