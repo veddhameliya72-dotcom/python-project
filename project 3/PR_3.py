@@ -12,22 +12,23 @@ while True:
     found = False
     match choice:
         case 1:
+            found = True
             id = int(input("Students ID: "))
             name = input("Students Name: ")
             age = int(input("Students Age: "))
             grade = input("Students Grade: ").upper()
             Date_of_Birth = input("Date of Birth (YYYY-MM-DD)")
-            subject = input("Enter students subject: (separated by commas) 
+            subject = input("Enter students subject: (separated by commas)")
             print("-------------------------------------")
             print("***Student data added successfully***")
             print("-------------------------------------\n")            
 
             student = {"id": id,"name": name,"age": age,"grade": grade,"Date_of_Birth": Date_of_Birth,"subject": subject}
             list_of_all_students.append(student)
-            found = True
+           
 
         case 2:
-            if found == True:
+            if not found:
                 for student in list_of_all_students:
                     print(student)
             else:
@@ -232,6 +233,5 @@ Enter your choice: 6
 Exiting the program dhanyavad!
 -------------------------------------
 -------------------------------------
-
 '''
 
