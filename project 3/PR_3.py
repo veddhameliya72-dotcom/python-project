@@ -16,8 +16,8 @@ while True:
             name = input("Students Name: ")
             age = int(input("Students Age: "))
             grade = input("Students Grade: ").upper()
-            Date_of_Birth = int(input("Date of Birth (YYYY-MM-DD)"))
-            subject = input("Enter students subject: (separated by commas) ")
+            Date_of_Birth = input("Date of Birth (YYYY-MM-DD)")
+            subject = input("Enter students subject: (separated by commas) 
             print("-------------------------------------")
             print("***Student data added successfully***")
             print("-------------------------------------\n")            
@@ -63,6 +63,9 @@ while True:
                         case _:
                             print("Invalid choice.")
                             print("")
+                    print("-------------------------------------")
+                    print("***Student updated successfully***")
+                    print("-------------------------------------\n") 
                 else:
                     print("Student not found.")            
                         
@@ -73,7 +76,7 @@ while True:
                 if student["id"] == delete_id:
                     list_of_all_students.remove(student)
                     print("-------------------------------------")
-                    print("Student deleted successfully.")
+                    print("***Student data deleted successfully***")
                     print("-------------------------------------")
 
                 else:
@@ -89,10 +92,9 @@ while True:
             
         case 6:
             print("Exiting the program dhanyavad!")
-            break    
-            print("Exiting the program dhanyavad!")
             print("-------------------------------------")
             print("-------------------------------------")
+            break
 '''
 output:
 Welcome to the student data organizer:
@@ -165,6 +167,9 @@ Enter students id: 101
 5. Update subject.
 Enter your choice: 1
 Enter new name: dev
+-------------------------------------
+***Student data updated successfully***
+-------------------------------------
 Student not found.
 
 1. To add student data.
