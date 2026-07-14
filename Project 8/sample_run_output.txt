@@ -1,0 +1,319 @@
+========================================
+Welcome To Multi-Utility Toolkit
+========================================
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: 
+Date-Time And Time Operation
+1. Display Current Date And Time
+2. Calculate Difference Between Two Dates/Time
+3. Formate Date Into Custome Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+
+Enter Your Choice: 
+Current Date = 04/07/2026
+Current Time = 11:21:52
+
+
+Date-Time And Time Operation
+1. Display Current Date And Time
+2. Calculate Difference Between Two Dates/Time
+3. Formate Date Into Custome Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+
+Enter Your Choice: 
+Enter The First Date (DD/MM/YYYY): Enter The Second Date (DD/MM/YYYY): Difference is: 549
+
+Date-Time And Time Operation
+1. Display Current Date And Time
+2. Calculate Difference Between Two Dates/Time
+3. Formate Date Into Custome Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+
+Enter Your Choice: 
+
+choose the Fomrat's: 
+1. YYYY/MM/DD 
+2. DD/MM/YYYY
+3. Exit
+
+Enter Your Choice: 
+choosen format: 2026/07/04
+
+choose the Fomrat's: 
+1. YYYY/MM/DD 
+2. DD/MM/YYYY
+3. Exit
+
+Enter Your Choice: 
+you are exiting from the format date module...........
+
+Date-Time And Time Operation
+1. Display Current Date And Time
+2. Calculate Difference Between Two Dates/Time
+3. Formate Date Into Custome Format
+4. Stopwatch
+5. Countdown Timer
+6. Back To Main Menu
+
+Enter Your Choice: 
+EXITING DATE TIME AND TIME OPERATION MENU.....
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: 
+Mathemetical Operations:
+1. Calculate Factorial
+2. Solve Compound Interest
+3. Trigonometric Calculation
+4. Aria Of GEomatric Shape
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Number For Factorial: Factorial Of '5' is: 120
+
+Mathemetical Operations:
+1. Calculate Factorial
+2. Solve Compound Interest
+3. Trigonometric Calculation
+4. Aria Of GEomatric Shape
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter The Principal Amount: Enter The Annual Interest Rate: Enter The Time The Money Is Invested For (In Years): Enter The Number Of Times Interest Is Compounded Per Year: 
+The Total Amount After 2.0 Years Is: 1102.5
+The Total Interest Earned Is: 102.5
+
+Mathemetical Operations:
+1. Calculate Factorial
+2. Solve Compound Interest
+3. Trigonometric Calculation
+4. Aria Of GEomatric Shape
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter The Degree: Sine of 30°: 0.49999999999999994
+Cosine of 30°: 0.8660254037844387
+Tangent of 30°: 0.5773502691896257
+
+Mathemetical Operations:
+1. Calculate Factorial
+2. Solve Compound Interest
+3. Trigonometric Calculation
+4. Aria Of GEomatric Shape
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter shape (rectangle, triangle): Enter length: Enter width: The area of the rectangle is: 50.0
+
+Mathemetical Operations:
+1. Calculate Factorial
+2. Solve Compound Interest
+3. Trigonometric Calculation
+4. Aria Of GEomatric Shape
+5. Back To Main Menu
+
+Enter Your Choice: 
+EXITING MATHEMATICAL OPERATIONS MENU.....
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: 
+Random Data Generations:
+1. Generate Random Number
+2. Generate Randome List
+3. Create Random Password
+4. Generate Randome OTP
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Starting Range: Enter Ending Range: Random Integer is: 41
+
+Random Data Generations:
+1. Generate Random Number
+2. Generate Randome List
+3. Create Random Password
+4. Generate Randome OTP
+5. Back To Main Menu
+
+Enter Your Choice: 
+Total numbers You Want In Your List? Enter Starting Range: Enter End Range: Generated List: [49, 21, 3, 11, 34]
+
+Random Data Generations:
+1. Generate Random Number
+2. Generate Randome List
+3. Create Random Password
+4. Generate Randome OTP
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter password length: Your random password is: mDYHS65ybN
+
+Random Data Generations:
+1. Generate Random Number
+2. Generate Randome List
+3. Create Random Password
+4. Generate Randome OTP
+5. Back To Main Menu
+
+Enter Your Choice: 
+Your Generated OTP is: 517728
+
+Random Data Generations:
+1. Generate Random Number
+2. Generate Randome List
+3. Create Random Password
+4. Generate Randome OTP
+5. Back To Main Menu
+
+Enter Your Choice: 
+EXITING RANDOM DATA GENERATION MENU.....
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: Generated UUID is: 4a922965-67cc-47e6-a13e-bac2c10c1b3f
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: 
+File Operations:
+1. Create A New File
+2. Write To A File
+3. Read From A File
+4. Append To A File
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Filename to be created: File sample.txt Created Successfully...............
+
+File Operations:
+1. Create A New File
+2. Write To A File
+3. Read From A File
+4. Append To A File
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Filename: Enter Content To Write: Content is been uploaded successfully...............
+
+File Operations:
+1. Create A New File
+2. Write To A File
+3. Read From A File
+4. Append To A File
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Filename To Read: Hello from the toolkit demo
+
+File Operations:
+1. Create A New File
+2. Write To A File
+3. Read From A File
+4. Append To A File
+5. Back To Main Menu
+
+Enter Your Choice: 
+Enter Filename: Enter Content To Append: Content Appended Successfully.................................
+
+File Operations:
+1. Create A New File
+2. Write To A File
+3. Read From A File
+4. Append To A File
+5. Back To Main Menu
+
+Enter Your Choice: 
+EXITING FILE OPERATIONS MENU.....
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: 
+--- Available Module Attributes ---
+
+Functions In 'date_time':
+ - count_down
+ - current_time
+ - date_difference
+ - datetime
+ - formate_date
+ - stop_watch
+ - time
+
+Functions In 'mathemetic':
+ - Trigonometri
+ - cal_factorial
+ - calculate_area
+ - compound_interest
+ - math
+
+Functions In 'random_num':
+ - generate_otp
+ - generate_password
+ - random
+ - random_list
+ - random_num
+
+Functions In 'file_op':
+ - append_file
+ - create_file
+ - read_file
+ - write_file
+
+Functions In 'uuid':
+ - generate_uuid
+ - uuid
+Choose An Option:
+1. Date-Time And Time Operation
+2. Mathemetical Operation
+3. Random Data Generation
+4. Generate Unique Identifiers (UUID)
+5. File Operations (Custome Module)
+6. Explore Module Atrribute dir()
+7. Exit
+========================================
+Enter Your Choice: Thanks for using this program 😊
+YOu can give 10 marks if are satisfied with this program 😁
